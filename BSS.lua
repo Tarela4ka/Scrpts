@@ -1,4 +1,3 @@
-    -- Этот скрипт отвечает за кик игрока (для вебхука)
     local doneloading = false
 
     task.spawn(function()
